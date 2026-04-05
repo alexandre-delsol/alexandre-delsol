@@ -41,14 +41,11 @@
 
 ##  GitHub Stats :
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=alexandre-delsol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Streak](https://streak-stats.demolab.com?user=alexandre-delsol&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-delsol&layout=donut&theme=tokyonight)
-
-<hr>
+<p style="display:flex; justify-content:space-evenly; align-items:center;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexandre-delsol&show_icons=true&theme=tokyonight" style="width:32%; height:160px;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexandre-delsol&layout=donut&theme=tokyonight" style="width:32%; height:160px;" />
+  <img src="https://streak-stats.demolab.com?user=alexandre-delsol&theme=tokyonight" style="width:32%; height:160px;" />
+</p>
 
 ##  Projects :
 ### Climbing Site
@@ -87,16 +84,31 @@ Control the snake with arrow keys and try to beat your high score!
 
 <hr>
 
-##  Exercises :
+## Exercises :
 
 ### CodingBat Java
 Java solutions for CodingBat exercises, built with Maven and tested using a TestHarness.
 
-
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Maven](https://img.shields.io/badge/Maven-3.8.7-brightgreen)
 
+---
 
+### LeetCode
+
+Problem-solving and algorithm practice.
+
+![Java](https://img.shields.io/badge/Java-DSA-blue)
+
+---
+
+### Exercism
+
+Clean code practice and mentoring exercises.
+
+![Java](https://img.shields.io/badge/Java-Practice-blue)
+
+---
 
 ### JavaScript Katas
 
@@ -106,7 +118,6 @@ Repository of JavaScript practice exercises and katas.
 ![Node.js](https://img.shields.io/badge/Node.js-20-green)
 ![npm](https://img.shields.io/badge/npm-10-blue)
 ![Katas](https://img.shields.io/badge/Katas-JavaScript-orange)
-
 <hr>
 <h2 align="left">Certificates :</h3>
 <h3 align="left">Sololearn </h4>
