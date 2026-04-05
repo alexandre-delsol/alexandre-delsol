@@ -2,6 +2,21 @@
 <h3 align="left">I'm a full-stack developer.
 <br> I use React with TypeScript for the front end and Java Spring Boot for the back end.</h3>
 
+<h2 align="left">Portfolio :</h3>
+<p align="left">
+<a href="https://alexandre-delsol-dev-portfolio.vercel.app/" target="_blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" width="30" />
+</a>
+</p>
+
+<h2 align="left">Connect with me :</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre_Delsol-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandre-delsol/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-alexandre--delsol-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/alexandre-delsol/)
+[![Exercism](https://img.shields.io/badge/Exercism-alexandre--delsol-4B268F?style=for-the-badge&logo=exercism)](https://exercism.org/profiles/alexandre-delsol)
+![LeetCode Stats](https://leetcard.jacoblin.cool/alexandre-delsol?theme=dark&font=Baloo&ext=contest) 
+
+
 
 ## Languages and Tools :
 
@@ -20,18 +35,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h2 align="left">Connect with me :</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre_Delsol-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandre-delsol/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-alexandre--delsol-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/alexandre-delsol/)
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/alexandre-delsol?theme=dark&font=Baloo&ext=contest) -->
-
-<h2 align="left">Portfolio :</h3>
-<p align="left">
-<a href="https://alexandre-delsol-dev-portfolio.vercel.app/" target="_blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" width="30" />
-</a>
-</p>
 
 <hr>
 
