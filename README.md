@@ -9,14 +9,19 @@
 </a>
 </p>
 
+---
+
 <h2 align="left">Connect with me :</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre_Delsol-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandre-delsol/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-alexandre--delsol-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/alexandre-delsol/)
 [![Exercism](https://img.shields.io/badge/Exercism-alexandre--delsol-4B268F?style=for-the-badge&logo=exercism)](https://exercism.org/profiles/alexandre-delsol)
-![LeetCode Stats](https://leetcard.jacoblin.cool/alexandre-delsol?theme=dark&font=Baloo&ext=contest) 
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/alexandre-delsol?theme=dark&font=Baloo&ext=contest" width="50%">
+</p>
 
+---
 
 ## Languages and Tools :
 
@@ -37,7 +42,7 @@
 
 
 
-<hr>
+---
 
 ##  GitHub Stats :
 
@@ -46,6 +51,8 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexandre-delsol&layout=donut&theme=tokyonight" style="width:32%; height:160px;" />
   <img src="https://streak-stats.demolab.com?user=alexandre-delsol&theme=tokyonight" style="width:32%; height:160px;" />
 </p>
+
+---
 
 ##  Projects :
 ### Climbing Site
@@ -92,7 +99,7 @@ Java solutions for CodingBat exercises, built with Maven and tested using a Test
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Maven](https://img.shields.io/badge/Maven-3.8.7-brightgreen)
 
----
+
 
 ### LeetCode
 
@@ -100,7 +107,7 @@ Problem-solving and algorithm practice.
 
 ![Java](https://img.shields.io/badge/Java-DSA-blue)
 
----
+
 
 ### Exercism
 
@@ -108,7 +115,7 @@ Clean code practice and mentoring exercises.
 
 ![Java](https://img.shields.io/badge/Java-Practice-blue)
 
----
+
 
 ### JavaScript Katas
 
