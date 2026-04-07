@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Alexandre%20DELSOL&textBg=false&section=header&animation=fadeIn&fontAlign=50"/>
-<h3 align="left">I'm a full-stack developer.
-<br> I use React with TypeScript for the front end and Java Spring Boot for the back end.</h3>
+<h3 align="left">Full-stack developer designing and building modern web applications with React (TypeScript) and Java (Spring Boot).</h3>
 
 <h2 align="left">Portfolio :</h3>
 <p align="left">
